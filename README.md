@@ -9,4 +9,5 @@
 
 
 Dataset Link : https://www.kaggle.com/datasets/ddosad/dummy-truck-sales-for-time-series
-N.B.: No virtual environment, No packages has been included in the repository. Only csv dataset and .ipynb file included because this is for demonstration purpose only.
+
+N.B.: No virtual environment, No packages were included in the repository. Only csv dataset and .ipynb file included because the operations are carried out to  demonstrate how time series forecasting. 
